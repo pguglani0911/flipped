@@ -1,0 +1,14 @@
+[theme]
+# A clear, dusty rose pink for buttons—very intentional pink
+primaryColor = "#CC8B8B" 
+
+# A deep, warm mauve-brown for sidebars and containers
+secondaryBackgroundColor = "#B59999" 
+
+# A soft, rosy-taupe background (more pink than the last one)
+backgroundColor = "#D1BDBD" 
+
+# A dark espresso for text to ground the pinks
+textColor = "#2E2626" 
+
+font = "serif"
